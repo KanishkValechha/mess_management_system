@@ -9,3 +9,5 @@ follow these steps to run this in your browser
 5.Then type localhost/login.php on your browser
 6.Voila! it will start running if you have any issue you can refer to this video link: https://www.youtube.com/watch?v=tcoIVp1eNgM&t=3s
 7. IMPORTANT: The most important step at last is to add database in mysql. I have added a db called user_data.sql. Refer the below link to see how to add it to phpmyadmin. link: https://youtu.be/2ynKAAt1G4Y?si=EYVXGZ4NaHzT_QJR
+
+Thank you
